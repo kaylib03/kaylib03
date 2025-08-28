@@ -10,8 +10,16 @@
 
 ## People would describe me as:
 
--funny
+1. funny
 
--outgoing
+2. outgoing
 
--loyal
+3. loyal
+
+## My skills:
+
+1. organized
+
+2. work well with others
+
+3. prioritize deadlines
