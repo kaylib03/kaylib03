@@ -1,6 +1,14 @@
 <h1 align="center">Hi ⭐, I'm Kayli</h1>
 <h3 align="center">-Senior at JMU-</h3>
 
+## About Me🌭
+
+1. I dance for Madison Dance Club🩰
+
+2. My favorite color is PINK🌸 and my favorite print is CHEETAH🐆
+
+3. I'm from Salem, VA🏡
+
 ## Skills🏅
 
 1. Organization🧠
