@@ -1,32 +1,18 @@
-## Hello! I'm Kayli 👋
+<h1 align="center">Hi ⭐, I'm Kayli</h1>
+<h3 align="center">-Senior at JMU-</h3>
 
-## Some of my interests are:
+## Skills🏅
 
-1. working out
+1. Organization🧠
+   
+2. Work well with other🙌
 
-2. getting coffee
+3. Time management⏰
 
-3. being with my friends and family
-
-## People would describe me as:
-
-1. funny
-
-2. outgoing
-
-3. loyal
-
-## My skills:
-
-1. organized
-
-2. work well with others
-
-3. prioritize deadlines
-
-
-
-
-![GitHub Logo](images/GitHub-logo.png "GitHub Logo")
-
+## 
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+<a href="https://www.linkedin.com/in/kayliblankenship" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kayliblankenship" height="30" width="40" /></a>
+<a href="https://instagram.com/kaylib03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kaylib03" height="30" width="40" /></a>
+</p>
 
