@@ -23,3 +23,10 @@
 2. work well with others
 
 3. prioritize deadlines
+
+
+
+
+![GitHub Logo](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png "GitHub Logo")
+
+
